@@ -15,7 +15,7 @@ Kaggle에 있는 NIH Chest X-ray 데이터셋을 사용해 흉부 X-ray 영싱�
 - [NIH Chest X-rays(kaggle)](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 
 ## Blog
-- [CheXNet Implementation & Review](https://icedtea.tistory.com/entry/%EB%A6%AC%EB%B7%B0CheXNet-Radiologist-Level-Pneumonia-Detection-on-Chest-X-Rays-with-Deep-LearningarXiv-preprint-2017)
+- [CheXNet 구현, 리뷰](https://icedtea.tistory.com/entry/%EB%A6%AC%EB%B7%B0CheXNet-Radiologist-Level-Pneumonia-Detection-on-Chest-X-Rays-with-Deep-LearningarXiv-preprint-2017)
 
 ## References
 - [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning](https://arxiv.org/abs/1711.05225)
