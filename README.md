@@ -1,6 +1,6 @@
 # CheXNet
 
-Kaggle에 있는 NIH Chest X-ray 데이터셋을 사용해 흉부 X-ray 영의 다중 레이블 분류 모델인 CheXNet을 구현하고, Grad-CAM을 활용해 모델의 예측 근거를 시각화하였습니다.
+Kaggle에 있는 NIH Chest X-ray 데이터셋을 사용해 흉부 X-ray 영상의 다중 레이블 분류 모델인 CheXNet을 구현하고, Grad-CAM을 활용해 모델의 예측 근거를 시각화하였습니다.
 
 ## Implementations
 
