@@ -5,7 +5,7 @@ Kaggle에 있는 NIH Chest X-ray 데이터셋을 사용해 흉부 X-ray 영상�
 ## Implementations
 
 ### 1. CheXNet-Baseline
-- 흉부 X-ray 영상 기반 다중 레이블 분류
+- DenseNet121 기반 흉부 X-ray 영상의 다중 레이블 분류
 - 14개 질환 레이블 예측
 
 ### 2. CheXNet-GradCAM
